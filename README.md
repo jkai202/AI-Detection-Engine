@@ -1,4 +1,4 @@
-AI-as-a-Detection-Engine-in-a-Security-Operations-Center-SOC
+## AI-as-a-Detection-Engine-in-a-Security-Operations-Center-SOC
 
 Final project for the Building AI course
 
